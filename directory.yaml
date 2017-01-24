@@ -1,3 +1,3 @@
-- {repository: "https://github.com/brooklyncentral/clocker", file: "swarm/catalog/swarm/swarm.bom"}
-- {repository: "https://github.com/brooklyncentral/clocker", file: "kubernetes/catalog/kubernetes/kubernetes.bom"}
+- {repository: "https://github.com/Graeme-Miller/clocker", file: "swarm/catalog/swarm/swarm.bom"}
+- {repository: "https://github.com/Graeme-Miller/clocker", file: "kubernetes/catalog/kubernetes/kubernetes.bom"}
 
