@@ -1,3 +1,3 @@
-- {repository: "https://github.com/brooklyncentral/clocker", file: "swarm/catalog/swarm/swarm.bom", parentId: "docker-swarm"}
-- {repository: "https://github.com/brooklyncentral/clocker", file: "kubernetes/catalog/kubernetes/kubernetes.bom", parentId: "kubernetes-cluster-application"}
+- {repository: "https://github.com/brooklyncentral/clocker", file: "swarm/catalog/swarm/swarm.bom"}
+- {repository: "https://github.com/brooklyncentral/clocker", file: "kubernetes/catalog/kubernetes/kubernetes.bom"}
 
