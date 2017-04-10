@@ -1,3 +1,3 @@
-- {repository: "https://github.com/Graeme-Miller/clocker", file: "swarm/catalog/swarm/swarm.bom", parentId: "docker-swarm"}
-- {repository: "https://github.com/Graeme-Miller/clocker", file: "kubernetes/catalog/kubernetes/kubernetes.bom", parentId: "kubernetes-cluster-application"}
+- {repository: "https://github.com/brooklyncentral/brooklyn-postgresql", file: "catalog/postgresql.bom", parentId: "postgresql-node"}
+- {repository: "https://github.com/brooklyncentral/brooklyn-postgresql", file: "catalog/postgresql.bom", parentId: "postgresql-ha"}
 
